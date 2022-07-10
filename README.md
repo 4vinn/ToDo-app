@@ -2,7 +2,9 @@
 
 HTML | CSS | Js | Firebase
 
-Website: https://fastidious-lolly-2144df.netlify.app/
+Live On:-<br>
+Netlify>https://fastidious-lolly-2144df.netlify.app/ <br>
+Github>https://vineet-jakhar.github.io/ToDo-app/todo%20app/index.html
 <br><br>
 
 More work on:-<br>
