@@ -3,7 +3,7 @@
 HTML | CSS | Js | Firebase
 
 <b><h3>Live on:-</h3></b>
-Netlify>https://fastidious-lolly-2144df.netlify.app/ <br>
+Netlify>https://todo-vj.netlify.app/ <br>
 Github>https://vineet-jakhar.github.io/ToDo-app/
 <br><br>
 
