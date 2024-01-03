@@ -1,14 +1,14 @@
-<h2>To Do app</h2>
+### ToDo App
 
-HTML | CSS | Js | Firebase
+<img src="https://img.shields.io/badge/HTML-white?logo=html5&logoColor=red" /> <img src="https://img.shields.io/badge/CSS-white?logo=css3&logoColor=blue" />  <img src="https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Firebase-white?logo=firebase&logoColor=yellow">
 
-<b><h3>Live on:-</h3></b>
-Netlify>https://todo-vj.netlify.app/ <br>
-Github>https://vineet-jakhar.github.io/ToDo-app/
-<br><br>
+---
+#### Deployed on
+Netlify: https://4vinn-todo.netlify.app/
 
-More work on:-<br>
-- Delete Tasks
-- Toggle Theme
-- Task Status update
+---
+#### More work on:
+- Deleting Tasks
+- Toggling Themes
+- Task Status updates
 
